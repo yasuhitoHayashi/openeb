@@ -1,6 +1,5 @@
-# Build folders
-/_build*/
-/build*/
+
+
 
 # Python 
 __pycache__/
